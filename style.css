@@ -1,0 +1,26 @@
+*{
+    margin:0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.container{
+ 	max-width: 80%;
+    background-color: rgb(255, 87, 51);
+    padding: 50px;
+    margin:auto;
+    
+}
+.container h3, h4{
+    text-align: center;
+}
+.container table{
+    text-align: left;
+    
+}
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+th, td {
+  padding: 20px;
+}
